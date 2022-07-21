@@ -15,7 +15,7 @@ export default function App() {
           <small>
             Coded by Denise and is open-sourced in{" "}
             <a href="https://github.com/deniseglaus/Dictionary-project">
-              gitHub
+              GitHub
             </a>
           </small>
         </footer>
