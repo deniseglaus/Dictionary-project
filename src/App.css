@@ -1,13 +1,14 @@
 body {
-  background-color: rgb(211, 190, 245);
+  background-color: #e4d3cf;
 }
 
 h1 {
-  color: rgb(63, 10, 98);
+  color: #694e4e;
+  font-size: 60px;
   text-align: center;
   font-weight: 450;
-  font-size: 40px;
   margin-top: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .App-footer {
   text-align: center;
@@ -17,4 +18,8 @@ h1 {
 form {
   text-align: center;
   margin: 50px auto;
+}
+
+small {
+  color: #694e4e;
 }
